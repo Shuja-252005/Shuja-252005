@@ -21,7 +21,7 @@ I build apps, solve problems, and enjoy learning new tech.
 ---
 
 ## 📈 Contribution Activity
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=Shuja-252005&theme=dracula&labels=true)
+[![Shuja-252005’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Shuja-252005&theme=github&hide_border=true)](https://github.com/Shuja-252005)
 
 ---
 
