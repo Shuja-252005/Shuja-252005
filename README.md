@@ -22,7 +22,7 @@ I build apps, solve problems, and enjoy learning new tech.
 
 ## 📈 Contribution Activity
 
-[![Shuja’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=shujarehman&theme=dracula&hide_border=true)](https://github.com/shujarehman)
+![Shuja-252005's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shuja-252005&theme=radical&hide_border=true)
 
 ---
 
