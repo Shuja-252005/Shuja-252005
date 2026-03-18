@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shuja ur Rehman
 
 Software developer from Abbottabad, Pakistan.  
-I build apps, solve problems, and love learning new tech.
+I build apps, solve problems, and enjoy learning new tech.
 
 ---
 
@@ -20,20 +20,16 @@ I build apps, solve problems, and love learning new tech.
 
 ---
 
-## 🌱 GitHub Activity
+## 📈 Contribution Activity
 
-### 📅 Recent Contribution Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shujarehman&theme=react-dark)
-
-_(This graph shows your commit activity over recent weeks — works well as a dynamic visual)_ :contentReference[oaicite:0]{index=0}
+[![Shuja’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=shujarehman&theme=dracula&hide_border=true)](https://github.com/shujarehman)
 
 ---
 
 ## 🎯 About Me
 
 I’m passionate about building apps with Flutter, writing logic in Java/C/C++,  
-and using Firebase + SQL for backend data. Always curious and always learning new things.
+and using Firebase + SQL to power data in applications. Always curious and learning new things.
 
 ---
 
