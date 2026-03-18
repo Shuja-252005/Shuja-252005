@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shuja ur Rehman
 
-Software developer and Flutter enthusiast from Abbottabad, Pakistan.  
-I love building apps, solving problems, and learning new technologies.  
+Software developer from Abbottabad, Pakistan.  
+I build apps, solve problems, and love learning new tech.
 
 ---
 
@@ -20,26 +20,24 @@ I love building apps, solving problems, and learning new technologies.
 
 ---
 
-## 🔥 Currently Learning
-- Advanced Flutter Animations  
-- Optimizing Firebase for apps  
-- Data structures & algorithms in C++  
+## 🌱 GitHub Activity
 
----
+### 📅 Recent Contribution Activity
 
-## 📊 GitHub Stats
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shujarehman&theme=react-dark)
 
-![Shuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=shujarehman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shujarehman&layout=compact&theme=radical)
+_(This graph shows your commit activity over recent weeks — works well as a dynamic visual)_ :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 🎯 About Me
-I’m a passionate coder who loves turning ideas into working apps.  
-Currently exploring Flutter, Firebase, and backend solutions to build full-stack applications.  
+
+I’m passionate about building apps with Flutter, writing logic in Java/C/C++,  
+and using Firebase + SQL for backend data. Always curious and always learning new things.
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio](https://www.freelancershere.com/)
+## 📫 Let’s Connect
+
+- LinkedIn – https://www.linkedin.com/  
+- Portfolio – https://www.freelancershere.com/
